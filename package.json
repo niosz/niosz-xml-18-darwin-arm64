@@ -1,0 +1,19 @@
+{
+  "name": "niosz-xml-18-darwin-arm64",
+  "version": "1.0.0",
+  "description": "niosz-xml node 18 darwin arm64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niosz/niosz-xml-18-darwin-arm64.git"
+  },
+  "author": "Fabio Gatto (fabio.gatto@live.it)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niosz/niosz-xml-18-darwin-arm64/issues"
+  },
+  "homepage": "https://github.com/niosz/niosz-xml-18-darwin-arm64#readme"
+}
